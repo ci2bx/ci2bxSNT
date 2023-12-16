@@ -10,4 +10,6 @@ a {
     cursor: url('hand0.png'), auto;
     color: aqua;
 }
-
+html.paspadding {
+    padding: 4px;
+}
