@@ -30,3 +30,6 @@ smilet.death_screen{
 p.death_screen {
     font-size: 150%
 }
+html.paspadding {
+    padding: 4px;
+}
