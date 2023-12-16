@@ -11,25 +11,3 @@ a {
     color: aqua;
 }
 
-html.death_screen{
-    background-color: #3E79D8;
-    color: white;
-    font-family: 'Segoe UI', 'Roboto', sans-serif;
-    cursor: none;
-    margin: 0;
-    padding: 0;
-    display: block;
-    min-height: 100vh;
-    padding-left: 15%;
-}
-smilet.death_screen{
-    display: block;
-    font-size: 1000%;
-    padding-top: 10%;
-}
-p.death_screen {
-    font-size: 150%
-}
-html.paspadding {
-    padding: 4px;
-}
