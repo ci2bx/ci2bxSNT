@@ -13,3 +13,6 @@ a {
 html.paspadding {
     padding: 4px;
 }
+li {
+    padding-bottom: 4px;
+}
