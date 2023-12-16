@@ -1,5 +1,5 @@
 User-agent: GPTBot
-Disallow: /
+Disallow: /index.html
 
 User-agent: *
 Allow: /
