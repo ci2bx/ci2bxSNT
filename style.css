@@ -2,12 +2,12 @@ html {
     font-family: Courier New, Monospace, Arial;
     background-color: #000000;
     color: white;
-    cursor: url('arrow0.png'), auto;
+    cursor: url('images/arrow0.png'), auto;
     padding-left: 25%;
     padding-right: 25%;
 }
 a {
-    cursor: url('hand0.png'), auto;
+    cursor: url('images/hand0.png'), auto;
     color: aqua;
 }
 html.paspadding {
